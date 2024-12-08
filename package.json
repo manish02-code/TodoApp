@@ -2,15 +2,15 @@
   "name": "todoapp",
   "author": {
     "name": "Maciej Twaróg",
-    "url": "https://github.com/"
+    "url": "https://github.com/manish02-code"
   },
   "private": true,
   "type": "module",
   "homepage": "https://react-cool-todo-app.netlify.app/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maciekt07/TodoApp.git"
-  },
+    "url": "git+https://github.com/manish02-code/TodoApp"
+  }
   "license": "MIT",
   "scripts": {
     "dev": "vite",
